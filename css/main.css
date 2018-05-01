@@ -273,6 +273,13 @@ section#learn-more2 div.container {
   margin-left: 0;
 }
 
+.box-right-2 {
+  position: absolute;
+  float: right;
+  margin-top: 28%;
+  margin-left: 30%
+}
+
 .text-black {
   color: #333447;
 }
