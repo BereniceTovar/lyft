@@ -471,17 +471,20 @@ ul.iconos-align i {
 }
 
 li.list-inline-item1{
-  padding: 20px 29px;
+  padding: 20px 35px;
+  margin-left: -20px;
   float: left;
 }
 
 li.list-inline-item2 {
-  padding: 20px 29px;
+  padding: 20px 35px;
+  margin-left: -20px;
   float: left;
   }
 
 li.list-inline-item3 {
-  padding: 20px 29px;
+  padding: 20px 35px;
+  margin-left: -20px;
   float: right;
 }
 
