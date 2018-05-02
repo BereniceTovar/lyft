@@ -471,24 +471,24 @@ ul.iconos-align i {
 }
 
 li.list-inline-item1{
-  padding: 20px 50px;
+  padding: 20px 29px;
   float: left;
 }
 
 li.list-inline-item2 {
-  padding: 20px 50px;
+  padding: 20px 29px;
   float: left;
   }
 
 li.list-inline-item3 {
-  padding: 20px 50px;
+  padding: 20px 29px;
   float: right;
 }
 
 .edit-line {
   width: 600px;
   position: relative;
-  left: 32%;
+  left: 25%;
 }
 
 a.terms, a.privacy {
@@ -501,5 +501,5 @@ a.terms:hover, a.privacy:hover {
 }
 
 div#copyright {
-  margin-left: 45%
+  margin-left: 38%
 }

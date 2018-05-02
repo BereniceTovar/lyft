@@ -14,4 +14,4 @@ Se realiza la replica del sitio de Lyft, utilizando HTML y CSS. Se clonó un doc
 
 2. Se lleva a cabo la estructura de html básica con las secciones necesarias.
 
-3. Al documento redactado en html se le da formato con css.
+3. Se le da formato con css al documento redactado en html. 
